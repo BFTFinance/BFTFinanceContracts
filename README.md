@@ -8,7 +8,7 @@ Read the BFT Finance Smart Contracts
 
 
 
-## The Website
+## Website
 https://berkshire.finance
 
 
