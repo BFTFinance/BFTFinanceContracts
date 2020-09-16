@@ -3,7 +3,7 @@ Read the BFT Finance Smart Contracts
 
 
 
-# 📚 KNOWNSEC Security Audit
+# 📚 KNOWNSEC 404 Security Audit
 [View Smart Contract Security Audit PDF](https://github.com/BFTFinance/BFTFinanceContracts/blob/master/KNOWNSEC%20-%20Berkshire.Finance%20-%20Smart%20contract%20audit%20report.pdf)
 
 
