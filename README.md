@@ -1,3 +1,17 @@
-# BFTFinanceContracts
-Smart Contracts for BFT Finance
-https://berkshire.finance - Read the BFT Finance Smart Contracts
+# BFT Finance Smart Contracts
+Read the BFT Finance Smart Contracts
+
+
+
+# KNOWNSEC Security Audit
+[View Smart Contract Security Audit PDF](https://github.com/BFTFinance/BFTFinanceContracts/blob/master/KNOWNSEC%20-%20Berkshire.Finance%20-%20Smart%20contract%20audit%20report.pdf)
+
+
+
+## The Website
+https://berkshire.finance
+
+
+
+## Ethereum Contract Address
+0x1ec128C3D3F256Cad161cf7A3F148f47F03f1D36
